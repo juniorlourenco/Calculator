@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "calculator",
-    "slug": "calculator",
+    "name": "SimpleCalculator",
+    "slug": "calculator", 
+    "description": "calculadora",
     "platforms": [
       "ios",
       "android",
@@ -23,6 +24,16 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+
+    "Android": {
+      "package": "com.JLDev.SimpleCalculator"
     }
+  }
+}
+
+
+    ....,
+    
   }
 }
