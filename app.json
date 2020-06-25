@@ -4,9 +4,7 @@
     "slug": "calculator", 
     "description": "calculadora",
     "platforms": [
-      "ios",
-      "android",
-      "web"
+      "android"
     ],
     "version": "1.0.0",
     "orientation": "portrait",
@@ -26,14 +24,8 @@
       "supportsTablet": true
     },
 
-    "Android": {
-      "package": "com.JLDev.SimpleCalculator"
+    "android": {
+      "package": "com.jldev.simplecalculator"
     }
-  }
-}
-
-
-    ....,
-    
   }
 }
