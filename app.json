@@ -1,7 +1,8 @@
 {
   "expo": {
     "name": "SimpleCalculator",
-    "slug": "calculator", 
+    "slug": "calculator",
+    "primaryColor": "#F45F0B",
     "description": "calculadora",
     "platforms": [
       "android"
@@ -12,7 +13,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#F45F0B"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -25,7 +26,11 @@
     },
 
     "android": {
-      "package": "com.jldev.simplecalculator"
+      "package": "com.jldev.simplecalculator",
+      "adaptiveIcon": {
+        "backgroundColor": "#3861b1",
+        "foregroundImage": "./assets/icon.png"
+      }
     }
   }
 }
