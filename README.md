@@ -1,6 +1,6 @@
 # Calculadora criada no [Curso de React Native](https://www.udemy.com/course/curso-react-native) da Cod3r Cursos - Professor Leonardo Leitão
 
-![Splash Screen](https://github.com/juniorlourenco/calculator/blob/master/assets/splash.png)
+<img src="https://raw.githubusercontent.com/juniorlourenco/calculator/master/assets/splash.png" width=400 height 400 />
 
 # Tecnologias utilizadas:
 * [React Native](https://reactnative.dev/)
